@@ -1,0 +1,28 @@
+<resources>
+    
+    <string name="app_name">stretchit</string>
+
+    <string name="subtitle_about">Stretchit</string>
+
+    <string name="about_stretchit">
+        <p>Stretchit is a Zambian based mobile app for rental search and real estate sale.Stretchit
+            puts hundreds of homes at your fingertips.</p>
+    </string>
+
+    <string name="subtitle_contacts">Contacts</string>
+    
+    <string name="contacts"> Tel: +260 962 212 354\nEmail:support@stretchit.com.zm
+    </string>
+
+    <string name="subtitle_address">Address</string>
+
+    <string name="physical_address">2040, Kent Rd, Lusaka 10101</string>
+
+    <string name="subtitle_hours">Office Hours</string>
+
+    <string name="office_hours">Mon - Fri : 08:00 hrs to 17:00 hrs\nSat : 09:00 hrs to 13:00 hrs
+    </string>
+
+</resources>
+
+
